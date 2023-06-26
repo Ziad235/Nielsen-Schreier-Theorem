@@ -1,1 +1,3 @@
-# Nielsen-Schreier-Theorem-
+# Nielsen-Schreier-Theorem
+
+## About the Project
