@@ -2,6 +2,7 @@
 
 ## About the Project
 Homotopy Type Theory allows for a concrete definition of a group as a type of symmetries (self-identifications or automorphisms) of a given mathematical object. <br /> 
+<br />
 Group theory can be performed on the types of these objects, rather than on the sets of symmetries. <br /> 
 This leads to novel approaches to classical problems, and a new understanding of covariance in physics and mathematics.<br />
 <br />
